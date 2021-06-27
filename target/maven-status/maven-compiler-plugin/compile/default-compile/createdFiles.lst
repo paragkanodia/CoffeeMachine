@@ -1,0 +1,16 @@
+model/beverage/Beverage.class
+model/beverage/HotCoffee.class
+model/inventory/IngridientInventory.class
+model/ingridient/Ingridient.class
+model/recipe/BlackTeaRecipe.class
+model/recipe/Recipe.class
+model/recipe/HotTeaRecipe.class
+model/inventory/Inventory.class
+model/beverage/GreenTea.class
+model/beverage/HotTea.class
+exceptions/IngridientNotAvailable.class
+Application/CoffeeMachineTest.class
+model/recipe/HotCoffeeRecipe.class
+Application/CoffeeMachine.class
+model/recipe/GreenTeaRecipe.class
+model/beverage/BlackTea.class
